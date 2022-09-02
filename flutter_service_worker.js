@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+  "icons/icon-512.png": "7a99b0474eec9982f65a613287ca6d4f",
+"icons/icon-192.png": "036c44df061ab9189c0d149747c67926",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "assets/assets/images/logo.png": "7a99b0474eec9982f65a613287ca6d4f",
 "assets/assets/images/buscherini_logo.png": "fa85b2486a2cf7f41e3b9fdc8e573a30",
@@ -20,11 +20,11 @@ const RESOURCES = {
 "assets/AssetManifest.json": "1e644a9a7b07f9836ae83d57eb1bd8be",
 "assets/FontManifest.json": "1e687af18e9f46ab01e20c52e51c4048",
 "version.json": "2cfa13f7caa5190919729b50852559e5",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "60d8b865665419d0abc5a4d6b25bd594",
-"/": "60d8b865665419d0abc5a4d6b25bd594",
+"favicon.png": "0c5512765f21d3de22bf692a689610b7",
+"index.html": "b756cf192bd1a357b8c2225d917a50bf",
+"/": "b756cf192bd1a357b8c2225d917a50bf",
 "manifest.json": "2da50e9ab1d37acd86c355cf4061cf4e",
-"main.dart.js": "69a43021ca9098d7a21b52b6aca08e60",
+"main.dart.js": "1d0bc2e436bb51f295e30d02385e9849",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
